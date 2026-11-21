@@ -8,6 +8,5 @@
 ```bash
 git clone <repo-url>
 cd cse103-lab-LAB3
-cd cse103-lab-LAB3
 python3 src/main.py
 ```
